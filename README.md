@@ -1,4 +1,6 @@
-### Technologies & Tools
+Hello, I'm Sinan. I am full-stack web developer. I have years of experience in the industry. I am actively looking for work.
+
+### Here are a few technologies I've been working with recently:
 
 #### Frontend
 
