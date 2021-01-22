@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-styled-components-informational?style=flat&logo=styledcomponents&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-StyledComponents-informational?style=flat&logo=styledcomponents&logoColor=white&color=2bbc8a)
 
 #### Backend
 
