@@ -2,7 +2,7 @@
 
 #### Frontend
 
-![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=61DAFB)
 
 #### Backend
 
