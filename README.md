@@ -1,8 +1,9 @@
-### Technologies
+### Technologies & Tools
 
 #### Frontend
 
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=Redux&logoColor=white&color=61DAFB)
 
 #### Backend
 
