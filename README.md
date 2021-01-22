@@ -15,6 +15,11 @@
 #### Backend
 
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Apollo-informational?style=flat&logo=Apollo-GraphQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PosgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JWT-informational?style=flat&logo=JSON-Web-Tokens&logoColor=white&color=2bbc8a)
 
 
 <!--
