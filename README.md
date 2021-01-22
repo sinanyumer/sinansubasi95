@@ -6,7 +6,7 @@
 
 #### Backend
 
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node-dot-js&logoColor=white&color=2bbc8a)
 
 
 <!--
