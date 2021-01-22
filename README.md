@@ -1,6 +1,6 @@
 Hello, I'm Sinan. I am full-stack web developer. I have years of experience in the industry. I am actively looking for work.
 
-### Here are a few technologies I've been working with recently:
+### Here are a few technologies & tools I've been working with recently:
 
 #### Frontend
 
@@ -22,6 +22,7 @@ Hello, I'm Sinan. I am full-stack web developer. I have years of experience in t
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PosgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JWT-informational?style=flat&logo=JSON-Web-Tokens&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-VSCode-informational?style=flat&logo=VSCode&logoColor=white&color=2bbc8a)
 
 
 <!--
