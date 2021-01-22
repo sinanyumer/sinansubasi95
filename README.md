@@ -12,7 +12,6 @@ Hello, I'm Sinan. I am full-stack web developer. I have years of experience in t
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MaterialUI-informational?style=flat&logo=Material-UI&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=2bbc8a)
 
 #### Backend
 
@@ -23,6 +22,10 @@ Hello, I'm Sinan. I am full-stack web developer. I have years of experience in t
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PosgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JWT-informational?style=flat&logo=JSON-Web-Tokens&logoColor=white&color=2bbc8a)
+
+#### Tools
+
+![](https://img.shields.io/badge/Tool-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
 
 
