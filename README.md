@@ -1,4 +1,10 @@
-### Hi there 👋
+### Technologies
+
+## Frontend
+
+![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+
+https://simpleicons.org/icons/react.svg
 
 <!--
 **sinansubasi95/sinansubasi95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
