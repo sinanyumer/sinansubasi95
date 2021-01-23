@@ -27,6 +27,7 @@ Hello, I'm Sinan. I am full-stack web developer. I have years of experience in t
 
 ![](https://img.shields.io/badge/Tool-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-NPM-informational?style=flat&logo=NPM&logoColor=white&color=2bbc8a)
 
 
 <!--
