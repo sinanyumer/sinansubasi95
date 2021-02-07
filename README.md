@@ -1,4 +1,4 @@
-Hello, I'm Sinan. I am full-stack web developer. I have years of experience in the industry. I am actively looking for work.
+Hello, I'm Sinan. I am full-stack web developer. I have years of experience in the industry. I am actively looking for work. Feel free to mail me for work. sinan95@gmail.com
 
 ### Here are a few technologies & tools I've been working with recently:
 
